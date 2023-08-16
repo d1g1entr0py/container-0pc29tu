@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "d1g1entr0py",
+  "repo": "container-0pc29tu",
+  "name": "d1g1entr0py",
+  "email": "bconsaul@outlook.com",
+}
